@@ -5,7 +5,6 @@ Testing Locally:
 ```shell
 asdf plugin test <plugin-name> <plugin-url> [--asdf-tool-version <version>] [--asdf-plugin-gitref <git-ref>] [test-command*]
 
-# TODO: adapt this
 asdf plugin test protoc-gen-elixir https://github.com/nelsonkopliku/asdf-protoc-gen-elixir.git "protoc-gen-elixir --help"
 ```
 
